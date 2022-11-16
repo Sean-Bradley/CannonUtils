@@ -2,7 +2,7 @@
 
 Two files that I created that help me when using Cannon physics.
 
-The TypeScript source code for these files be found on my course page at [https://sbcode.net/threejs/physics-cannonDebugrenderer/](https://sbcode.net/threejs/physics-cannonDebugrenderer/)
+The TypeScript source code for these files be found on my course page at [https://sbcode.net/threejs/physics-cannonDebugrenderer/](https://sbcode.net/threejs/physics-cannonDebugrenderer/) and my Threejs TypeScript Boilerplate repository [cannonjs branch](https://github.com/Sean-Bradley/Three.js-TypeScript-Boilerplate/tree/cannonjs)
 
 ## CDN Links
 
