@@ -16,4 +16,4 @@ JSFiddle : https://jsfiddle.net/seanwasere/k2f6ctv7/
 
 ## Thanks
 
-To allow me to continue to produce free MIT code, please check oout Books on [Amazon](https://www.amazon.com/kindle-dbs/entity/author/B091CV4KY5), or my courses on [Threejs](https://sbcode.net/coupons).
+To allow me to continue to produce free MIT code, please check out my books on [Amazon](https://www.amazon.com/kindle-dbs/entity/author/B091CV4KY5), and my courses at [Threejs & TypeScript](https://sbcode.net/threejs) and [React Three Fiber](https://sbcode.net/react-three-fiber/)
